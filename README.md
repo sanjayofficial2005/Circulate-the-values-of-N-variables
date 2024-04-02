@@ -21,8 +21,8 @@ Print the coding to get answer.
 ## Program:
 ```python
 
-NAME  :SANJAY M
-Reg No:212223230187
+#Developed By   : SANJAY M
+#Register No    :212223230187
 
 
 def circulate():
@@ -35,7 +35,7 @@ def circulate():
 ```
 
 ## Output:
-![Screenshot 2024-03-08 182657](https://github.com/sanjayofficial2005/Circulate-the-values-of-N-variables/assets/148048602/8635189d-ee21-4a10-aede-479c804bbd28)
+![Screenshot 2024-04-02 170946](https://github.com/sanjayofficial2005/Circulate-the-values-of-N-variables/assets/148048602/e166ac84-711b-462a-ad04-6f8193e4ac4f)
 
 ![Screenshot 2024-03-08 182710](https://github.com/sanjayofficial2005/Circulate-the-values-of-N-variables/assets/148048602/e5cb95af-1bcd-47c3-9ad7-a1a37890cf19)
 
